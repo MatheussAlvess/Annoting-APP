@@ -1,6 +1,6 @@
 # Efficiently annotate images with your custom labels using this Streamlit application.
 
-![Imagem](example_app.png)
+![Imagem](images/example_app.png)
 
 ## Features:
 
