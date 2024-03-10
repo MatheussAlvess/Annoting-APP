@@ -51,6 +51,9 @@ streamlit run app.py
 
 - Labeled images are saved within the "images_annoted" folder.
 - Corresponding bounding box information and labels are stored in text files within the "labels_annoted" folder, with filenames matching the original image names (excluding extension).
+- The files are saved considering YOLO format (`<object-class> <x-center> 
+<y-center> <width> <height>`). 
+
 
 ## Additional Information:
 
