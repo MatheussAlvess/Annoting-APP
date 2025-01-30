@@ -1,6 +1,6 @@
 # Efficiently annotate images with your custom labels using this Streamlit application.
 
-![Imagem](images/example_app.png)
+![Exemplo de GIF](images/anote.gif)
 
 ## Features:
 
