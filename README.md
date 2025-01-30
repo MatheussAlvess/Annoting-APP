@@ -2,6 +2,8 @@
 
 ![Exemplo de GIF](images/anote.gif)
 
+### [Click here](https://annoting-app.streamlit.app/) to annotate your own images.
+
 ## Features:
 
 - Intuitive interface: Navigate effortlessly with a user-friendly design.
